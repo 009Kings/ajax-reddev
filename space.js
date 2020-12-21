@@ -22,6 +22,4 @@ let listAstros = (astroList) => {
   })
 }
 
-// fetch here
-
 document.getElementById('ajax').addEventListener('click', makeFetchHappen)
